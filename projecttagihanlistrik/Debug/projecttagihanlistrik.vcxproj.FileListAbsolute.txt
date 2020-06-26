@@ -1,0 +1,6 @@
+C:\Users\USER\source\repos\projecttagihanlistrik\projecttagihanlistrik\Debug\projecttagihanlistrik.vcxprojAssemblyReference.cache
+C:\Users\USER\source\repos\projecttagihanlistrik\projecttagihanlistrik\Debug\projecttagihanlistrik.MyForm1.resources
+C:\Users\USER\source\repos\projecttagihanlistrik\projecttagihanlistrik\Debug\projecttagihanlistrik.MyForm2.resources
+C:\Users\USER\source\repos\projecttagihanlistrik\projecttagihanlistrik\Debug\projecttagihanlistrik.vcxproj.GenerateResource.cache
+C:\Users\USER\source\repos\projecttagihanlistrik\projecttagihanlistrik\Debug\projecttagihanlistrik.MyForm.resources
+C:\Users\USER\source\repos\projecttagihanlistrik\projecttagihanlistrik\Debug\projecttagihanlistrik.MyForm3.resources
